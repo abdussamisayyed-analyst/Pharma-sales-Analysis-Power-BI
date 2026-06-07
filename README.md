@@ -115,5 +115,8 @@ This dashboard helps businesses:
 # 👨‍💻 Author
 
 **Abdussami Sayyed**
+
+🔗 LinkedIn: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
+
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
