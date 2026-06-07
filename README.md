@@ -116,7 +116,7 @@ This dashboard helps businesses:
 
 **Abdussami Sayyed**
 
-🔗 LinkedIn: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
+🔗 LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7455068950184333312/
 
 Aspiring Data Analyst | Power BI | Excel | SQL | Python
 
